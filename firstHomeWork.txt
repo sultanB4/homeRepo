@@ -1,0 +1,11 @@
+Home work #1.
+1. Open chrome
+2. Navigate to techtorial.com
+3. Login
+4. Sign up for a class
+5. Set reminder
+6. logout
+
+Please finish this task before 05/15/20
+
+Should you have any questions, please reach out @techtorail
